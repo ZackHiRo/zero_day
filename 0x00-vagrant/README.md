@@ -1,1 +1,1 @@
-This is the README file of the 0x00-vagrant directory
+This is the README file of the Vagrant Repository
